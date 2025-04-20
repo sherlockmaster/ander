@@ -299,18 +299,23 @@ Ao terminar os testes, você pode:
 
 ---
 
-## 🖼️ Imagens sugeridas para adicionar
+## 🖼️ Imagens de configuração da VM
 
-Coloque essas imagens na pasta `/imagens` e referencie aqui com markdown:
-
-- Tela de criação do grupo de recursos
 - Configuração básica da VM
-- Aba de rede com porta liberada
-- Tela de conexão via RDP ou SSH
+  https://1drv.ms/i/c/944d146266640393/EdCjJ8mnhrNPqHAniXTIgpIBEPXlFOY598k2HCHGCVaDrA?e=f3ExpQ
+  https://1drv.ms/i/c/944d146266640393/ES_7xKzjwyZEuhIYAb2jbjAB5h-D9NFgfgGQMv8jhz1L9Q?e=B3BYz5
+  https://1drv.ms/i/c/944d146266640393/EVPRqi3qeE9Klry_QAcVxSIBgSlZwpRIPSwzV2GLHADZlA?e=fz0HOg
+- Aba Discos
+  https://1drv.ms/i/c/944d146266640393/EW3_849P6jJAryVg8K8-g1IB1FbMyWnQkzoPPnuFFv6PwQ?e=ucS0oh
+- Aba Gerenciamento
+  https://1drv.ms/i/c/944d146266640393/EWtL4DX70g5Hp2HBsWkQjgYBgnO0JBBVetF4Pulyi--oXg?e=J2LPaP
+- Aba Revisão
+  [https://1drv.ms/i/c/944d146266640393/EWtL4DX70g5Hp2HBsWkQjgYBgnO0JBBVetF4Pulyi--oXg?e=J2LPaP](https://1drv.ms/i/c/944d146266640393/EU6R-sNKWcdMptqwQM4UgkgB2hjk8cmvTb2Pjpk8E44MWQ?e=G9wm0X)
+- Implatação em Andamento
+  https://1drv.ms/i/c/944d146266640393/EWkB1X12mKFPl9G5z_mPcKEB83-W6e8ky4qZDqCC7UIoBA?e=ENX3dL
+- VM Criada
+  https://1drv.ms/i/c/944d146266640393/ESorBfwojW1LjZNjrMRVWYEBdbphPg9ypPGgazoGduePFg?e=KUP0j1
 
-```markdown
-![Criação do Resource Group](../imagens/resource-group.png)
-![Configuração da VM](../imagens/configuracao-vm.png)
-![Conectando via SSH](../imagens/conexao-ssh.png)
+
 
 
